@@ -5,7 +5,6 @@
 # Node.js
 node_modules
 yarn.lock
-dist
 coverage
 coverage.lcov
 .nyc_output
